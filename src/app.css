@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    min-height: 60vh;
+    width: 600px;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 2px solid rgb(86, 86, 212);
+    box-shadow: 1px 4px 7px rgba(0,0,0,0.2);
+}
+table {
+   border-collapse: collapse;
+   text-align: center;
+   margin: 20px auto;
+   width: 90%;
+}
+h2 {
+    text-align: center;
+}
+.btn {
+    padding: 10px;
+    background-color: rgb(86, 86, 212);
+    border-radius: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.h {
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.nom {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 29px;
+    
+}
+
+
+
+
+
+    
+

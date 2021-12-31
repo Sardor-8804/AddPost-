@@ -1,0 +1,15 @@
+.sel {
+    margin-right: 8px;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(107, 80, 226);
+    color: white;
+    width: 115px;
+}
+.dis {
+    color: white;
+   font-weight: bold;
+   font-size: 13px;
+}
